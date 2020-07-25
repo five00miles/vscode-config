@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\project_js_wj"
+		}
+	],
+	"settings": {
+		"files.associations": {},
+		"editor.tabSize": 2,
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+		}
+	}
+}
